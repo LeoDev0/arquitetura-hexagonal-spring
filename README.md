@@ -13,5 +13,5 @@ Veja a imagem de como está feita essa arquitetura em uma visão de componentes 
 ![modelo.png](./src/main/resources/static/modelo.png)
 
 Veja os repos originais abaixo (em Quarkus e Spring):
-https://github.com/natanielpaiva/arquitetura-hexagonal
-https://github.com/natanielpaiva/arquitetura-hexagonal-spring
+- https://github.com/natanielpaiva/arquitetura-hexagonal
+- https://github.com/natanielpaiva/arquitetura-hexagonal-spring
